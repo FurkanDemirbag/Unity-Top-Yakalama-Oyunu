@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3ce97305ef22ca64096a5719b8d04e85
+timeCreated: 1539957256
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Assassin$
+  fontNames:
+  - Assassin$
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

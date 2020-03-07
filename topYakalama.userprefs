@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\tabanCarpma.cs">
+    <Files>
+      <File FileName="Assets\Scripts\tabanCarpma.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\topHiz.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\top.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\sesAcKapa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\paddle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
